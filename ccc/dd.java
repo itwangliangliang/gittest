@@ -4,6 +4,7 @@ public class YY{
 		System.print.out("helloworld");
 		System.print.out("berygood";)
 		System.print.out("hahahahahah")
+		00000000000000
 }
 
 
